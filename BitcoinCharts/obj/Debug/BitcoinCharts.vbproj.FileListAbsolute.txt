@@ -1,0 +1,46 @@
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.exe.config
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.exe
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.pdb
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.xml
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.dll
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.WinForms.dll
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.Wpf.dll
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.pdb
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.xml
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.WinForms.pdb
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.WinForms.xml
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.Wpf.pdb
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.Wpf.xml
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.vbprojResolveAssemblyReference.cache
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.frmMain.resources
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.Resources.resources
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.vbproj.GenerateResource.Cache
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.exe
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.xml
+c:\users\domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.pdb
+C:\Users\Domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Domo\documents\visual studio 2017\Projects\BitcoinCharts\BitcoinCharts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.exe.config
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.exe
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.pdb
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\BitcoinCharts.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.dll
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.pdb
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.vbprojAssemblyReference.cache
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.frmMain.resources
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.Resources.resources
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.vbproj.GenerateResource.cache
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.vbproj.CoreCompileInputs.cache
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.vbproj.CopyComplete
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.exe
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.xml
+C:\Users\Domo\Desktop\BitcoinCharts\BitcoinCharts\obj\Debug\BitcoinCharts.pdb
