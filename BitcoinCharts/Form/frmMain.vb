@@ -22,9 +22,22 @@ Public Class frmMain
     End Sub
 
     Private Sub InitControls()
+
         ' set the start and end timepicker date 
-        dtpStartDate.Value = Date.Now.AddDays(-7)
-        dtpEndDate.Value = Date.Now
+        Dim defaultStartDate = Date.Now.AddDays(-7)
+        Dim defaultEndDate = Date.Now
+
+        If (defaultStartDate < dtpStartDate.MinDate OrElse defaultStartDate > dtpStartDate.MaxDate) Then
+            defaultStartDate = dtpStartDate.MinDate
+        End If
+
+
+        If (defaultEndDate < dtpEndDate.MinDate OrElse defaultEndDate > dtpEndDate.MinDate) Then
+            defaultEndDate = dtpEndDate.MaxDate
+        End If
+
+        dtpStartDate.Value = defaultStartDate
+        dtpEndDate.Value = defaultEndDate
 
     End Sub
 
