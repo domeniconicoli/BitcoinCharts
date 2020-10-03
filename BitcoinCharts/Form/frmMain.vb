@@ -9,7 +9,6 @@ Public Class frmMain
     Private Const AxisY_Title As String = "Price"
     Private Const AxisY_MinValue As Decimal = 1000
     Private Const AxisY_MaxOffsetValue As Decimal = 1000
-    Private Const DownloadError As String = "Error during data download. Please try again in a few minutes"
 
     Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
@@ -46,11 +45,11 @@ Public Class frmMain
         ' at button click show the graph
         MainChart.Visible = True
 
-        ' start the data request / data download
-        Dim result As Classes.History.HistoryModel = RequestHistoryData(dtpStartDate.Value, dtpEndDate.Value)
+        Try
 
-        ' if data received is ok
-        If result IsNot Nothing Then
+            ' start the data request / data download
+            Dim result As Classes.History.HistoryModel = RequestHistoryData(dtpStartDate.Value, dtpEndDate.Value)
+
             ' get the days list to create the x Axis
             Dim DaysValue As New List(Of String)()
             For Each obj In result.bpi
@@ -76,10 +75,10 @@ Public Class frmMain
             End With
             Series.Add(Line)
             MainChart.Series = Series
-        Else
-            ' if the download didn't go well, show an error
-            MessageBox.Show(DownloadError)
-        End If
+
+        Catch ex As Exception
+            MessageBox.Show(ex.Message)
+        End Try
 
     End Sub
 
@@ -130,6 +129,7 @@ Public Class frmMain
         'do the request
         Dim objresult As Classes.History.HistoryModel = API.RequestHistoryData(StartDate, EndDate)
         Return objresult
+
     End Function
 
 End Class
